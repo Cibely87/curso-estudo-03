@@ -1,2 +1,1 @@
-//FUNÇÃO É A PRIMEIRA CLASSE DO OBJETO
-
+function fun1() { }
